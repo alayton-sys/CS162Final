@@ -1,0 +1,15 @@
+Anthony,Bowman,AB778065,5548,abowman42@gmail.com,Savings,Active,6666,10000
+Anthony,Bowman2,AB435597,7778675309,antman@yahoo.com,Savings,Active,4444,7800
+Arianna,Johnson,AJ533146,489651230,ariannaj@gmail.com,Checking,Active,6969,750
+Bruce,Wayne,BW635719,9876541230,iambatman@gmail.com,Savings,Active,5555,100000
+Deez,Nuts,DN171248,7894561230,dn@gmail.com,Checking,Active,9999,7800
+Derrik,Layton,DL113925,5554446666,dlayton@comcast.com,Checking,Active,6666,2500
+Derrik,Layton,DL735094,5489651230,asdasd@gmail.com,Checking,Active,6969,500
+Jerry,Seinfield,JS706817,7894561254,jseinfield@yahoo.com,Checking,Active,6666,15000
+Joe,Mama,JM338109,7889654582,joemama@gmail.com,Savings,Active,4444,4000
+Luxanna,Crownguard,LC485496,88855623,magesrcool@yahoo.com,Savings,Active,7777,4000
+Pee,Poo,PP975669,77789986,pp@yahoo.com,Savings,Active,1111,1230
+Pee,Poop,PP260708,44444444,pepep@gmail.com,Savings,Active,5555,5000
+Peter,Parker,PP157159,9845621486,pparker@gmail.com,Checking,Active,7862,20000
+Poop,Pee,PP933880,7894565587,pp@gmail.com,Savings,Active,1234,5000
+Tommy,Segovia,TS334521,789456222,tsegovia20@mail.wou.edu,Savings,Active,4444,5000
